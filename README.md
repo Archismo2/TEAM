@@ -23,27 +23,6 @@ Powered exoskeletons show great promise in rehabilitation and personal mobility.
 3. **Durability Test** – Evaluates function on uneven terrain and exposure to light rain.  
 4. **Battery Comparison** – Compares exoskeleton use time with and without T.E.A.M. support.
 
-## 🧰 Components  
-- Raspberry Pi or Jetson Nano  
-- Rechargeable Li-ion Battery Pack  
-- OpenCV-compatible Camera  
-- Linear Actuator (for retractable rod)  
-- Waterproof Chassis  
-- IMU and GPS Module  
-- Optional: GSM Module, Buzzer, LED
-
-## 📊 Data Collection & Analysis  
-- Logs distance and tracking accuracy  
-- Records voltage levels and power transfer duration  
-- Collects user feedback  
-- Analyzes gait support and terrain interaction
-
-## 🔐 Safety and Risk Considerations  
-- All circuits fuse-protected  
-- Emergency stop system built in  
-- Wiring fully enclosed  
-- Charging rod halts on resistance detection  
-- All testing done under supervision in controlled environments
 
 ## 📚 References  
 - Sawicki, G. (2020). *Exoskeleton Mechanics and Applications*  
